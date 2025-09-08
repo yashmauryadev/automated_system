@@ -1,4 +1,3 @@
-# automated_system
 # Automated System
 
 A flexible and extensible automated system designed for home/office automation and IoT applications.
